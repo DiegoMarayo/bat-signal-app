@@ -6,6 +6,7 @@ O app simula um “Bat Signal”, onde o usuário pode preencher um formulário 
 
 ---
 
+
 ## 📱 Preview
 
 * Tela inicial com logo do Batman
