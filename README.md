@@ -12,13 +12,13 @@ O app simula um “Bat Signal”, onde o usuário pode preencher um formulário 
 ### 🏠 Tela inicial
 
 <p align="center">
-  <img src="./assets/previewBatSinal.png" width="300">
+  <img src="./assets/home.png" width="300">
 </p>
 
 ### 📋 Formulário
 
 <p align="center">
-  <img src="./assets/resultBatSinal.png" width="300">
+  <img src="./assets/form.png" width="300">
 </p>
 
 * Tela inicial com logo do Batman
